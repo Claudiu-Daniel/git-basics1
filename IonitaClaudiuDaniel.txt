@@ -1,0 +1,155 @@
+ls
+cd
+cd d
+ls
+help
+cd -L
+ls
+ping google
+ping google.ro
+sudo yum install nano
+sudo install git
+install git
+sudo apt install git-all
+sudo yum install git
+git --version
+cd D:
+cd help
+cd --help
+cd d
+cd d/
+git --config
+git config
+pwd
+mkdir git-basics
+git config --global user.name ionitaclaudiudaniel22@gmail.com
+git config --global user.name Claudiu-Daniel
+git config --global user.email ionitaclaudiudaniel22@gmail.com
+git config --list
+git --help
+git --clone
+git clone
+git clone --bare
+git clone git-basics
+echo 
+echo "# git-basics" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Claudiu-Daniel/git-basics.git
+git push -u origin master
+git remote add origin https://github.com/Claudiu-Daniel/git-basics.git
+git push -u origin master
+git remote set-url origin git@https://github.com/Claudiu-Daniel
+git remote add origin https://github.com/Claudiu-Daniel/git-basics.git
+git push origin master
+ls -all
+cd git-basics/
+ls
+ls -all
+cd ..
+cd /home/claudiuazetryuiouytrezaertyu/
+ls
+mkdir test
+cd test/
+git clone https://github.com/Claudiu-Daniel/git-basics.git
+nano test.txt
+git add .
+git commit -m'sdasd'
+git push origin master
+git status
+pwd
+ls -all
+mv test.txt git-basics/
+ls
+cd git-basics/
+ls
+git add .
+git commit -m'sdasd'
+git push origin master
+history
+ls
+cd git-basics
+ls
+cd ..
+cs test
+cd test
+ls
+cd git-basics/\
+sudo yum install git
+mkdir "tema 1"
+ls
+cd tema 1
+mkdir tema1
+ls
+cd tema1
+ls
+git clone https://github.com/Claudiu-Daniel/git-basics1.git
+ls
+cd git-basics1
+ls
+cd .git/cd ..
+nano myfile1.txt
+ls
+cd..
+cd ..
+ls
+cd git-basics1/
+ls
+ls -all
+cat > myfile1.txt
+ls
+git commit
+git add myfile1.txt
+git commit -a
+sudo yum install git
+ls
+mkdir "arhitectura"
+ls
+cd cd arhitectura/
+cd arhitectura/
+ls
+mkdir "lab1"
+ls
+cd lab1/
+git clone https://github.com/Claudiu-Daniel/git-basics1.git
+cat > myfile1.txt
+ls
+mv myfile1.txt /git-basics1
+rm myfile1.txt
+ls
+cd git-basics1/
+ls
+cat > myfile1.txt
+ls
+git add myfile1.txt
+ls
+git commit -a -m "myfile1 added"
+git push
+git push -u origin master
+git pull
+ipconfig
+git branch -D newBranch
+git branch -D [br1]
+git checkout -b br1
+git branch -a
+git push origin br1
+ls
+cat > newbrfile
+git commit newbrfile
+git commit newbrfile.txt
+ls
+git push -a
+git push
+git add newbrfile
+git commit newbrfile
+git push
+git commit -a -m "new file added"
+git push
+gite merge master
+git merge master
+git branch
+git checkout master
+git merge br1
+git push
+history -w IonitaClaudiuDaniel.txt
